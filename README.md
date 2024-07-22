@@ -1,4 +1,4 @@
-# Task Management Frontend
+# Task Management Application
 
 ## Description
 A task management application built with React and Material-UI. It features drag-and-drop functionality for managing tasks and integrates with Firebase for user authentication.
